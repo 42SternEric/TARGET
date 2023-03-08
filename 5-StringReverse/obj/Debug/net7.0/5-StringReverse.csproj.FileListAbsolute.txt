@@ -1,0 +1,15 @@
+C:\workspace\TARGET\5-StringReverse\bin\Debug\net7.0\5-StringReverse.exe
+C:\workspace\TARGET\5-StringReverse\bin\Debug\net7.0\5-StringReverse.deps.json
+C:\workspace\TARGET\5-StringReverse\bin\Debug\net7.0\5-StringReverse.runtimeconfig.json
+C:\workspace\TARGET\5-StringReverse\bin\Debug\net7.0\5-StringReverse.dll
+C:\workspace\TARGET\5-StringReverse\bin\Debug\net7.0\5-StringReverse.pdb
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\5-StringReverse.csproj.AssemblyReference.cache
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\5-StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\5-StringReverse.AssemblyInfoInputs.cache
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\5-StringReverse.AssemblyInfo.cs
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\5-StringReverse.csproj.CoreCompileInputs.cache
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\5-StringReverse.dll
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\refint\5-StringReverse.dll
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\5-StringReverse.pdb
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\5-StringReverse.genruntimeconfig.cache
+C:\workspace\TARGET\5-StringReverse\obj\Debug\net7.0\ref\5-StringReverse.dll

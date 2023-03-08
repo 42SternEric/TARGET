@@ -1,0 +1,15 @@
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\4-FaturamentoMensalEstados.csproj.AssemblyReference.cache
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\4-FaturamentoMensalEstados.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\4-FaturamentoMensalEstados.AssemblyInfoInputs.cache
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\4-FaturamentoMensalEstados.AssemblyInfo.cs
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\4-FaturamentoMensalEstados.csproj.CoreCompileInputs.cache
+C:\workspace\TARGET\4-FaturamentoMensalEstados\bin\Debug\net7.0\4-FaturamentoMensalEstados.exe
+C:\workspace\TARGET\4-FaturamentoMensalEstados\bin\Debug\net7.0\4-FaturamentoMensalEstados.deps.json
+C:\workspace\TARGET\4-FaturamentoMensalEstados\bin\Debug\net7.0\4-FaturamentoMensalEstados.runtimeconfig.json
+C:\workspace\TARGET\4-FaturamentoMensalEstados\bin\Debug\net7.0\4-FaturamentoMensalEstados.dll
+C:\workspace\TARGET\4-FaturamentoMensalEstados\bin\Debug\net7.0\4-FaturamentoMensalEstados.pdb
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\4-FaturamentoMensalEstados.dll
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\refint\4-FaturamentoMensalEstados.dll
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\4-FaturamentoMensalEstados.pdb
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\4-FaturamentoMensalEstados.genruntimeconfig.cache
+C:\workspace\TARGET\4-FaturamentoMensalEstados\obj\Debug\net7.0\ref\4-FaturamentoMensalEstados.dll
